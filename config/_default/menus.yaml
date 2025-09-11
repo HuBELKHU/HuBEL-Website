@@ -14,7 +14,7 @@ main:
     url: /members
     weight: 30
   - name: Research
-    url: /publication
+    url: /papers/
     weight: 40
   - name: News
     url: /news

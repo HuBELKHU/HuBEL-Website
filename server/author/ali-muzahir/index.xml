@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ali Muzahir | Human Behaviour and Energy Laboratory (HuBEL)</title>
+    <link>https://www.gyyun.org/author/ali-muzahir/</link>
+      <atom:link href="https://www.gyyun.org/author/ali-muzahir/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ali Muzahir</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.gyyun.org/author/ali-muzahir/avatar_hu_d5a0412c6eb1d976.jpg</url>
+      <title>Ali Muzahir</title>
+      <link>https://www.gyyun.org/author/ali-muzahir/</link>
+    </image>
+    
+  </channel>
+</rss>

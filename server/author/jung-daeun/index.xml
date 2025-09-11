@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jung Daeun | Human Behaviour and Energy Laboratory (HuBEL)</title>
+    <link>https://www.gyyun.org/author/jung-daeun/</link>
+      <atom:link href="https://www.gyyun.org/author/jung-daeun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jung Daeun</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.gyyun.org/author/jung-daeun/avatar_hu_74896976c08bdca5.jpg</url>
+      <title>Jung Daeun</title>
+      <link>https://www.gyyun.org/author/jung-daeun/</link>
+    </image>
+    
+  </channel>
+</rss>

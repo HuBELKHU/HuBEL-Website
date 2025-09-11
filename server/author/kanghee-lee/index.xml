@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kanghee Lee | Human Behaviour and Energy Laboratory (HuBEL)</title>
+    <link>https://www.gyyun.org/author/kanghee-lee/</link>
+      <atom:link href="https://www.gyyun.org/author/kanghee-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kanghee Lee</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.gyyun.org/author/kanghee-lee/avatar_hu_10ed761f371f503a.jpg</url>
+      <title>Kanghee Lee</title>
+      <link>https://www.gyyun.org/author/kanghee-lee/</link>
+    </image>
+    
+  </channel>
+</rss>

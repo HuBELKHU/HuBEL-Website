@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Human Behaviour and Energy Laboratory (HuBEL)</title>
+    <link>https://www.gyyun.org/</link>
+      <atom:link href="https://www.gyyun.org/index.xml" rel="self" type="application/rss+xml" />
+    <description>Human Behaviour and Energy Laboratory (HuBEL)</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.gyyun.org/media/icon_hu_8ea7b59fd4231cba.png</url>
+      <title>Human Behaviour and Energy Laboratory (HuBEL)</title>
+      <link>https://www.gyyun.org/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>https://www.gyyun.org/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://www.gyyun.org/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HuBEL Strengthens Its Research Team with New Members</title>
+      <link>https://www.gyyun.org/news/2025-08-new-publication/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gyyun.org/news/2025-08-new-publication/</guid>
+      <description>&lt;p&gt;The Human Behaviour and Energy Laboratory (HuBEL) at Kyung Hee University is pleased to
+announce the expansion of our team. On September 1st, we were delighted to welcome &lt;strong&gt;Ali
+Muzahir, Ayeen M. Khan, Da Eun Jung, and Lewis Nsengeyukuri&lt;/strong&gt; to our lab.&lt;/p&gt;
+&lt;p&gt;Under the leadership of Professor Geun Young Yun, HuBEL continues to build on its strong
+foundation of interdisciplinary research. The addition of our new members brings valuable new
+skills and diverse perspectives that will enhance our ongoing work to understand human
+behaviour and advance sustainable energy and climate solutions at building and urban scales.&lt;/p&gt;
+&lt;p&gt;This growth marks an exciting new phase for the lab. The fusion of our established expertise
+with fresh insights will invigorate our collaborative environment and accelerate our progress in
+tackling complex global challenges. By expanding our team, we are reinforcing our commitment
+to producing innovative, high-impact research.&lt;/p&gt;
+&lt;p&gt;We are confident that the contributions of our new colleagues will be instrumental as we
+continue to push the boundaries of knowledge. We look forward to a future of shared success
+and groundbreaking discoveries.&lt;/p&gt;
+&lt;p&gt;Welcome to the team!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intelligent HVAC Systems &amp; Control</title>
+      <link>https://www.gyyun.org/publication/3rd/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gyyun.org/publication/3rd/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our Lab&#39;s New AI Model Tackles Missing Data in Building Energy Systems</title>
+      <link>https://www.gyyun.org/news/2025-09-new-research-grant/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gyyun.org/news/2025-09-new-research-grant/</guid>
+      <description>&lt;p&gt;We are excited to announce the publication of our latest research, &amp;lsquo;Adaptive neural temporal
+hybridization for missing data imputation in building energy use datasets: An integrated LNN-
+LSTM weighted model&amp;rsquo;, in the prestigious Journal of Building Engineering. This work, led by
+Saeed Murtaza, Sarath Raj, and Prof. Geun Young Yun, introduces a groundbreaking approach
+to a persistent challenge in building energy management.&lt;/p&gt;
+&lt;p&gt;The Problem: Incomplete Data&lt;/p&gt;
+&lt;p&gt;Effective energy management in buildings relies on accurate, continuous data. However, due to
+sensor malfunctions or communication errors, energy consumption data is often incomplete.
+These gaps can significantly impair the performance of data-driven systems used for forecasting
+energy demand and optimizing efficiency.&lt;/p&gt;
+&lt;p&gt;Our Solution: The Integrated LNN-LSTM Weighted Model (ILLWM)&lt;/p&gt;
+&lt;p&gt;To address this challenge, our research team developed a novel deep learning model called the
+Integrated LNN-LSTM Weighted Model (ILLWM). This innovative model combines the strengths
+of two powerful neural networks:&lt;/p&gt;
+&lt;p&gt;● Liquid Neural Networks (LNN): Known for their flexibility and ability to adapt to
+dynamically changing data streams.&lt;/p&gt;
+&lt;p&gt;● Long Short-Term Memory (LSTM) Networks: Excel at recognizing and modeling long-
+term patterns in time-series data.&lt;/p&gt;
+&lt;p&gt;The ILLWM uses an intelligent, RMSE-based weighting system to dynamically combine the
+outputs of both LNN and LSTM, leveraging the best capabilities of each to produce a single,
+highly accurate estimate for the missing data points.
+Key Findings and Impact&lt;/p&gt;
+&lt;p&gt;We tested the ILLWM on real-world energy consumption data from commercial, residential, and
+hospital buildings, even with high rates of missing data (up to 40%). The results were
+remarkable.&lt;/p&gt;
+&lt;p&gt;Our model significantly outperformed existing imputation methods. For instance, in a
+commercial building dataset with 40% missing data, the ILLWM reduced imputation errors by
+89.6% compared to a standard LSTM model and 76.9% compared to a standalone LNN
+model.&lt;/p&gt;
+&lt;p&gt;By ensuring more complete and reliable datasets, the ILLWM can directly enhance the accuracy
+of energy demand forecasting and support the development of more sustainable and efficient
+energy management strategies in buildings worldwide.&lt;/p&gt;
+&lt;p&gt;Read the Full Paper&lt;/p&gt;
+&lt;p&gt;We congratulate the authors on this significant contribution to the field.&lt;/p&gt;
+&lt;p&gt;Authors: Saeed Murtaza, Sarath Raj, Geun Young Yun, Duk-Joon Park, Ji-Hye Kim,
+Gwanyong Park, and Jin Woo Moon.&lt;/p&gt;
+&lt;p&gt;The full paper is available in the Journal of Building Engineering.&lt;/p&gt;
+&lt;p&gt;DOI: &lt;a href=&#34;https://doi.org/10.1016/j.jobe.2025.113774&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.jobe.2025.113774&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sustainable Urban Systems &amp; Climate Resilience</title>
+      <link>https://www.gyyun.org/publication/4th/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gyyun.org/publication/4th/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Intelligence for the Built Environment</title>
+      <link>https://www.gyyun.org/publication/5th/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.gyyun.org/publication/5th/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.gyyun.org/contact/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.gyyun.org/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://www.gyyun.org/people/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.gyyun.org/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tour</title>
+      <link>https://www.gyyun.org/tour/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.gyyun.org/tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
+      <link>https://www.gyyun.org/post/20-12-02-icml-best-paper/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.gyyun.org/post/20-12-02-icml-best-paper/</guid>
+      <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
+&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
+&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
+      <link>https://www.gyyun.org/post/20-12-01-wowchemy-prize/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.gyyun.org/post/20-12-01-wowchemy-prize/</guid>
+      <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
+&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
+&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://www.gyyun.org/publication/2nd/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.gyyun.org/publication/2nd/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Indoor Environmental Quality &amp; Occupant-Centric Design</title>
+      <link>https://www.gyyun.org/publication/1st/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.gyyun.org/publication/1st/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.gyyun.org/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.gyyun.org/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>https://www.gyyun.org/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.gyyun.org/members/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

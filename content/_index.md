@@ -57,10 +57,11 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: false
+        featured_only: true
     design:
       view: citation
       columns: '1'
+      
   - block: markdown
     content:
       title:

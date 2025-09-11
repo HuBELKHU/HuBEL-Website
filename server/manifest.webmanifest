@@ -1,0 +1,18 @@
+{
+  "name": "Human Behaviour and Energy Laboratory (HuBEL)",
+  "short_name": "Human Behaviour and Energy Laboratory (HuBEL)",
+  "lang": "en-us",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/media/icon_hu_dc3f504f8e69a9b0.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu_8ea7b59fd4231cba.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

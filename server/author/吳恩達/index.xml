@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>吳恩達 | Human Behaviour and Energy Laboratory (HuBEL)</title>
+    <link>https://www.gyyun.org/author/%E5%90%B3%E6%81%A9%E9%81%94/</link>
+      <atom:link href="https://www.gyyun.org/author/%E5%90%B3%E6%81%A9%E9%81%94/index.xml" rel="self" type="application/rss+xml" />
+    <description>吳恩達</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.gyyun.org/media/icon_hu_8ea7b59fd4231cba.png</url>
+      <title>吳恩達</title>
+      <link>https://www.gyyun.org/author/%E5%90%B3%E6%81%A9%E9%81%94/</link>
+    </image>
+    
+    <item>
+      <title>Geun Young Yun</title>
+      <link>https://www.gyyun.org/author/geun-young-yun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.gyyun.org/author/geun-young-yun/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
