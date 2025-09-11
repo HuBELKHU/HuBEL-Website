@@ -22,7 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Mitigation Strategies for the Urban Heat Island
   - Information Retrieval
 
 education:

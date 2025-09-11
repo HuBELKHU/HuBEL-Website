@@ -1,5 +1,5 @@
 ---
-title: 'Indoor Environmental Quality &amp; Occupant-Centric Design'
+title: 'Indoor Environmental Quality & Occupant-Centric Design'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

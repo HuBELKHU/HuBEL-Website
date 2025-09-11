@@ -1,8 +1,67 @@
 ---
-title: 'Adaptive Comfort'
-summary: 'A short description of your research on Adaptive Comfort. This text will appear on the card on your homepage.'
+title: "Intelligent HVAC Systems & Control"
+authors:
+date: "2025-08-07T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2017-01-01T00:00:00Z"
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article"]
+
+# Publication name and optional abbreviated publication name.
+publication: ""
+publication_short: ""
+
+abstract: This research concentrates on the core of building energy consumption, e.g Heating, Ventilation, and Air Conditioning (HVAC) systems. We focus on enhancing the performance of next-generation HVAC technologies through advanced design, optimization, and intelligent control logic. Our work involves developing dynamic, load-responsive control strategies for systems like Variable Refrigerant Flow (VRF) and Electric Heat Pumps (EHP) to maximize efficiency under variable operating conditions. The goal is to create highly responsive and energy-efficient HVAC solutions that maintain optimal indoor comfort while minimizing operational costs and environmental impact.
+
+# Summary. An optional shortened abstract.
+summary: Find out more!
+
+tags:
+- Source Themes
+featured: false
+
+links:
+- name: Custom Link
+  url: http://example.org
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: '#'
+url_poster: '#'
+url_project: ''
+url_slides: ''
+url_source: '#'
+url_video: '#'
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- internal-project
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
 ---
 
-This is the main content of the "Adaptive Comfort" page. You can add more details here about the overall research area.
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
 
-Below, we will add a block to automatically list all publications tagged with "Adaptive Comfort".
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

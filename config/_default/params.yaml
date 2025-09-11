@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} HuBEL: Human Behaviour and Energy Laboratory. Kyung Hee University'
     license:
       enable: true
       allow_derivatives: false

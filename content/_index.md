@@ -46,4 +46,28 @@ sections:
 
         Another key research area is the visual perception of occupants and the application of advanced lighting systems. The HuBEL has investigated the visual effects of different spectral power distributions of light sources, the use of lighting systems in practice, and their energy implications through a series of experiments, field measurements, and simulations. Recently, the HuBEL has been testing the subjective responses of people to organic lighting emitting device (OLED) lighting and been developing the lighting strategies to apply OLED in buildings in a carbon efficient way, which can maximise the comfort and well-being of building occupants.
 
+  - block: collection
+    id: publications
+    content:
+      title: Recent Publications
+      text: |
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        featured_only: false
+    design:
+      view: citation
+      columns: '1'
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./members/" cta_text="Meet the members →" %}}
+    design:
+      columns: '1'
+
 ---

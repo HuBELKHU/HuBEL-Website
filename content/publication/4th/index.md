@@ -1,8 +1,7 @@
 ---
-title: "An example preprint / working paper"
+title: "Sustainable Urban Systems & Climate Resilience"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+date: "2025-07-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,10 +16,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This research expands our focus from individual buildings to the urban scale, addressing critical challenges of climate change and urban sustainability. We investigate the Urban Heat Island (UHI) phenomenon, analyzing its causes, predicting its intensity, and assessing its impact on public health and energy consumption. A key component of this work is evaluating tangible mitigation strategies, including the application of sustainable materials (e.g., cool materials, PCMs) and the integration of green infrastructure (e.g., green roofs, urban forestry). This research connects material science with strategic urban planning to create more resilient and sustainable built environments.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Find out more!
 
 tags:
 - Source Themes
@@ -41,7 +40,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
