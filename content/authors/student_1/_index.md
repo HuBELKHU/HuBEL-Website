@@ -34,8 +34,8 @@ education:
       institution: Kyung Hee Univeristy
       year: 2022 - 2024
     - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: Kyung Hee University
+      year: 2014 - 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: linkedin
-    icon_pack: fab
-    link: 
-  - icon: google-scholar
-    icon_pack: ai
-    link: 
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'rkdgml30@khu.ac.kr'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

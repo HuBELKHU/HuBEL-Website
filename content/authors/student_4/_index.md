@@ -17,25 +17,22 @@ organizations:
   - name: Kyung Hee University
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include urban planning, sustainable cities, urban climate and GIS.
-
 interests:
-  - Geographic Information System
+  - Geographic Information System and Remote Sensing
   - Urban heat island and energy saving
-  - Information Retrieval
+  - Deep Learning
 
 education:
   courses:
     - course: PhD in Architechural Engineering
       institution: Kyung Hee University
       year: 2025 - Till Date
-    - course: MSc in Geographic Information Science for enviroment and sustainable development
+    - course: MSc in Geographic Information Science for enviromental and sustainable development
       institution: University Of Rwanda
-      year: 2024
+      year: 2021 - 2023
     - course: BSc in Urban & Regional Planning
       institution: Univeristy Of Rwanda
-      year: 2018
+      year: 2014 - 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,9 +45,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/lewis-nsengeyukuri-7a388a174
-  - icon: google-scholar
-    icon_pack: ai
-    link: #
   - icon: github
     icon_pack: fab
     link: https://github.com/lewiskhu
@@ -71,7 +65,3 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-<!-- 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->

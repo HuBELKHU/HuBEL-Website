@@ -4,6 +4,12 @@ title: Research Areas
 
 ---
 
+Our research is dedicated to advancing the sustainability and performance of buildings and
+cities by focusing on the intricate interplay between energy systems, environmental quality, and
+human well-being. We employ a multidisciplinary approach, integrating advanced modeling,
+real-world monitoring, AI and data-driven approaches and human-centric evaluation to create
+energy-efficient, comfortable, and healthy indoor and outdoor environments.
+
 ### 1. Indoor Environmental Quality & Occupant-Centric Design
 
 <br>
@@ -19,32 +25,28 @@ also modeling occupant behavior to bridge the gap between predicted and actual b
 performance. By developing advanced daylighting systems, adaptive comfort models, and
 holistic IEQ assessment frameworks, we aim to create indoor environments.
 
+<img src="preview.png" alt="alt text for your image" width="400"/>
+
+
 **Relevant Papers:** 
 
-* &quot;Influence of Window Views on the Subjective Evaluation of Discomfort Glare&quot;
+* "Nzivugira, P. D., Ngarambe, J., & Yun, G. (2022). Geographically extended occupant clothing behavior model using convolutional neural networks with hyperband technique. Journal of Building Engineering, 49, 104023."
 
-* &quot;Prediction of Discomport Glares from Windows: Influence of the Subjective Evaluation of
-Window Views&quot;
+* "Ngarambe, J., Kim, I., & Yun, G. Y. (2021). Influences of spectral power distribution on circadian energy, visual comfort and work performance. Sustainability, 13(9), 4852."
 
-* &quot;View types and luminance effects on discomfort glare assessment from windows&quot;
+* "Kim, J. T., Lim, J. H., Cho, S. H., & Yun, G. Y. (2015). Development of the adaptive PMV model for improving prediction performances. Energy and Buildings, 98, 100-105."
 
-* &quot;A Field Survey of Occupancy and Air-Conditioner Use Patterns in Open Plan Offices&quot;
+* "Shin, J. Y., Yun, G. Y., & Kim, J. T. (2012). View types and luminance effects on discomfort glare assessment from windows. Energy and Buildings, 46, 139–145."
 
-* &quot;Behavioural, physical and socio-economic factor in household cooling energy
-consumption&quot;
+* "Shin, J. Y., Yun, G. Y., & Kim, J. T. (2012). Evaluation of daylighting effectiveness and energy saving potentials of light-pipe systems in buildings. Indoor and built environment, 21(1), 129-136."
 
-* &quot;Development of adaptive PMV&quot;
+* "Yun, G., Shin, J., & Kim, J. (2011). Influence of Window Views on the Subjective Evaluation of Discomfort Glare. Indoor and Built Environment, 20, 65–74."
 
-* &quot;Evaluation of daylighting effectiveness and lighting energy saving potentials of light-pipe
-system in buildings&quot;
+* "Kim, J. T., Shin, J. Y., & Yun, G. Y. (2011). Prediction of discomfort glares from windows: Influence of the subjective evaluation of window views. Indoor and Built Environment, 21(1), 92–97."
 
-* &quot;Geographically extended occupant clothing behavior model using convolutional neural
-networks with hyperband technique&quot;
+* "Yun, G. Y., Kong, H. J., & Kim, J. T. (2011). A field survey of occupancy and air-conditioner use patterns in open plan offices. Indoor and Built Environment, 20(1), 137–147."
 
-* &quot;Influences of spectral power distribution on circadian energy, visual comfort and work
-performance&quot;
-
-* &quot;Personalized thermal control system and method for improving sleep quality&quot;
+* "Yun, G. Y., & Steemers, K. (2011). Behavioural, physical and socio-economic factors in household cooling energy consumption. Applied Energy, 88(6), 2191-2200."
 
 ---
 
@@ -63,19 +65,19 @@ work includes the creation of reference energy models for various building typol
 the essential frameworks needed to support evidence-based energy policies, building codes,
 and high-performance design.
 
+<img src="building_energy.png" alt="alt text for your image" width="800"/>
+
 **Relevant Papers:** 
 
-* &quot;Development of an automatic calibration method of a VRF energy model for the design of
-energy efficient buildings&quot;
+* "Bae, K., Kim, D., Choi, Y., Yun, G., & Moon, J. (2023). Development of an automatic calibration method of a VRF energy model for the design of energy efficient buildings. Journal of Building Engineering, 77, 107519."
 
-* &quot;Development of Energy Benchmark Model and Confirmation of Performance of Domestic
-Senior Welfare Facilities&quot;
+* "Ngarambe, J., Yun, G. Y., & Kim, J. H. (2021). Quantile regression modelling with LightGBM for building energy benchmarking. Sustainable Cities and Society, 74, 103212."
 
-* &quot;Development of Reference Energy Models for Office Buildings in Korea&quot;
+* "Ngarambe, J., Yun, G. Y., & Kim, J. (2020). The role of geographic scale of weather data in urban building energy models. Energy and Buildings, 222, 110093."
 
-* &quot;The role of geographic scale of weather data in urban building energy models&quot;
+* "Kim, D., & Yun, G. (2019). Development of reference energy models for office buildings in Korea. Energies, 12(12), 2269."
 
-* &quot;Quantile regression modelling with LightGBM for building energy benchmarking&quot;
+* "Kim, S., Kim, J., & Yun, G. Y. (2018). Development of energy benchmark model and confirmation of performance of domestic senior welfare facilities. Journal of the Architectural Institute of Korea, 34(12), 115-122."
 
 ---
 
@@ -94,20 +96,19 @@ variable operating conditions. The goal is to create highly responsive and energ
 solutions that maintain optimal indoor comfort while minimizing operational costs and
 environmental impact.
 
+<img src="3hvac.png" alt="alt text for your image" width="700"/>
+
 **Relevant Papers:** 
 
-* &quot;Development and application of the load responsive control of the evaporating
-temperature in a VRF system for cooling energy savings&quot;
+* "Kim, D. Y., Kim, D. E., & Yun, G. Y. (2023). A novel deep learning-based integrated photovoltaic energy storage system and EHP power prediction. Energies, 16(17), 6333."
 
-* &quot;Dynamic target high pressure control of a VRF system for heating energy savings&quot;
+* "Lee, H., Kim, D., Yun, G., & Moon, J. (2023). Development of an artificial neural network model for predicting the refrigerant charge amount in a heat pump system. Building and Environment, 244, 110826."
 
-* &quot;Energy performance of direct expansion air handling unit in office buildings&quot;
+* "Go, S., Yun, G. Y., & Kim, J. (2021). Energy performance of direct expansion air handling unit in office buildings. Journal of Building Engineering, 44, 103233."
 
-* &quot;A novel deep learning‐based integrated photovoltaic energy storage system and EHP
-power prediction&quot;
+* "Kim, D., Yun, G., Kim, B., & Kim, J. (2020). Dynamic target high pressure control of a VRF system for heating energy savings. Energies, 13(20), 5293."
 
-* &quot;Development of an artificial neural network model for predicting the refrigerant charge
-amount in a heat pump system&quot;
+* "Kim, D., Yun, G., Kim, B., & Kim, J. (2019). Development and application of the load responsive control of the evaporating temperature in a VRF system for cooling energy savings. Energies, 12(23), 4434."
 
 ---
 
@@ -126,24 +127,21 @@ PCMs) and the integration of green infrastructure (e.g., green roofs, urban fore
 research connects material science with strategic urban planning to create more resilient and
 sustainable built environments.
 
+<img src="4sustain.png" alt="alt text for your image" width="700"/>
+
 **Relevant Papers:** 
 
-* &quot;Synergies between urban heat island and heat waves in Seoul&quot;
+* "Kim, J., & Lee, D. (2023). The impact of urban warming on the mortality of vulnerable populations in Seoul. Environmental Research, 225, 115560."
 
-* &quot;The impact of urban warming on the mortality of vulnerable populations in Seoul&quot;
+* "Lee, D., & Kim, J. (2022). Synergies between urban heat island and heat waves in Seoul. Sustainable Cities and Society, 87, 104218."
 
-* &quot;Exploring the role of strategic urban planning and greening in decreasing surface urban
-heat island intensity&quot;
+* "Lee, H., Yun, G. Y., & Kim, J. (2022). Experimental and numerical study on the thermal performance and economic viability of a PCM-integrated floor heating system. Journal of Building Engineering, 52, 104445."
 
-* &quot;Influence of tree canopy coverage and leaf area density on urban heat island mitigation&quot;
+* "Ngarambe, J., Yun, G. Y., & Lee, D. (2021). Exploring the role of strategic urban planning and greening in decreasing surface urban heat island intensity. Journal of Urban Planning and Development, 147(3), 04021025."
 
-* &quot;Green roofs save energy in cities&quot;
+* "Ngarambe, J., Yun, G. Y., & Kim, J. (2021). Influence of tree canopy coverage and leaf area density on urban heat island mitigation. Sustainable Cities and Society, 70, 102883."
 
-* &quot;Experimental and numerical study on the thermal performance and economic viability of a
-PCM-integrated floor heating system&quot;
-
-* &quot;Investigating the impact of local climatic conditions and cool materials on the energy
-consumption of the urban building stock: a case study of Seoul&quot;
+* "Ngarambe, J., Yun, G. Y., & Santamouris, M. (2021). Investigating the impact of local climatic conditions and cool materials on the energy consumption of the urban building stock: a case study of Seoul. Energy and Buildings, 241, 110915."
 
 ---
 
@@ -162,20 +160,18 @@ time optimization of HVAC operations and occupant-responsive environmental contr
 focus on advancing model interpretability and reliability, ensuring that these data-driven
 solutions are robust and trustworthy for real-world deployment.
 
+<img src="5builtenv.png" alt="alt text for your image" width="700"/>
+
 **Relevant Papers:** 
 
-* &quot;Recent advances in black box and white-box models for urban heat island prediction&quot;
+* "Bae, K. W., Shin, D., Choi, Y. J., Yun, G. Y., & Moon, J. W. (2024). Energy-efficient virtual sensor-based deep reinforcement learning control of indoor CO2 in a kindergarten. Energy, 292, 130453."
 
-* &quot;Energy-efficient virtual sensor-based deep reinforcement learning control of indoor CO2 in
-a kindergarten&quot;
+* "Ngarambe, J., & Yun, G. Y. (2024). Recent advances in black box and white-box models for urban heat island prediction. Renewable and Sustainable Energy Reviews, 199, 114519."
 
-* &quot;Sequential attention deep learning architecture with unsupervised pre-training for
-interpretable and accurate building energy prediction&quot;
+* "Kim, D. E., & Yun, G. Y. (2023). Sequential attention deep learning architecture with unsupervised pre-training for interpretable and accurate building energy prediction. Energy and Buildings, 298, 113540."
 
-* &quot;Recent advances and effectiveness of machine learning models for fluid dynamics in the
-built environment&quot;
+* "Lee, S., & Yun, G. Y. (2022). Recent advances and effectiveness of machine learning models for fluid dynamics in the built environment. Buildings, 12(9), 1335."
 
-* &quot;Data-driven prediction of indoor airflow distribution in naturally ventilated residential
-buildings using combined CFD simulation and machine learning (ML) approach&quot;
+* "Lee, S., & Yun, G. Y. (2021). Data-driven prediction of indoor airflow distribution in naturally ventilated residential buildings using combined CFD simulation and machine learning (ML) approach. Building and Environment, 206, 108344."
 
 ---

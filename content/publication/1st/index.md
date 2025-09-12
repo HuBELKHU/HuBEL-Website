@@ -1,81 +1,12 @@
 ---
-title: 'Indoor Environmental Quality & Occupant-Centric Design'
+title: 'Bae, K. W., Choi, E. J., Choi, Y. J., Yun, J. Y., Yun, G. Y., Moon, H. J., & Moon, J. W. (2025). Real-time ventilation control for indoor CO2 management using occupant information. Building and Environment, 262, 113568. https://doi.org/10.1016/j.buildenv.2025.113568'
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
-#authors:
-#  - admin
-#  - Robert Ford
+publishDate: "2025-01-01T00:00:00Z"
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+abstract: In contemporary Conventional ventilation control methods primarily rely on environmental measurements taken indoors but often overlook occupant-specific factors. This study presents an optimal ventilation control algorithm based on a real-time indoor CO2 concentration prediction model designed to enhance IAQ and energy efficiency. This model incorporates real-time occupant data, highlighting the considerable influence of occupant-related variables on the indoor CO2 levels. To this end, three deep learning architectures—deep neural networks, long short-term memory (LSTM), and gated recurrent units—were evaluated, with the LSTM model exhibiting superior accuracy and robustness. Using this model, a predictive ventilation control algorithm was developed to proactively regulate airflow and maintain CO2 concentrations below the recommended threshold of 1,000 ppm. The effectiveness of the proposed control strategy was validated using mockup experiments and living lab-based simulations. The results show that integrating real-time occupant data considerably enhances indoor comfort than rule-based ventilation control. Furthermore, optimal ventilation control resulted in a considerable decrease in energy consumption by approximately 24.74%, particularly in large-scale environments. These findings highlight the potential of the proposed method as a robust solution for next-generation indoor environmental management systems and intelligent control in smart buildings.
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
 
 # Display this page in the Featured widget?
 featured: true
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

@@ -17,25 +17,24 @@ organizations:
   - name: Kyung Hee University
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Atmospheric Science
+  - Urban Science and Climate
+  - Climate Change
+  - Satellite Meteorology
+  - Stratospheric Warmings
 
 education:
   courses:
-    - course: PhD in Architectural Engineering
-      institution: Kyung Hee University
+    - course: Ph.D., in Urban Meteorology 
+      institution: Indian Institute of Technology Kharagpur, India
+      year: 2021
+    - course: M.Tech in Earth System Science and Technology
+      institution: Indian Institute of Technology Kharagpur, India
+      year: 2015
+    - course: B. Tech in Aerospace Engineering
+      institution: University of Calicut, Kerala, India
       year: 2012
-    - course: MEng in rchitectural Engineering
-      institution: 
-      year: 2009
-    - course: BSc in Architectural Engineering
-      institution: 
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -47,13 +46,13 @@ social:
     link: 'mailto:sarath.rajk@khu.ac.kr'
   - icon: linkedin
     icon_pack: fab
-    link: 
+    link: https://www.linkedin.com/in/sarath-raj
   - icon: google-scholar
     icon_pack: ai
-    link: 
+    link: https://scholar.google.com/citations?user=xvlwQlkAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://orcid.org/0000-0001-9352-5356
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,7 +70,3 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-<!-- 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->

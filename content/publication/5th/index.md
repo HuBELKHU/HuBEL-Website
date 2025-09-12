@@ -1,78 +1,12 @@
 ---
-title: 'Data-Driven Intelligence for the Built Environment'
+title: 'Murtaza, S., Raj, S., Yun, G. Y., Park, D. J., Kim, J. H., Park, G., & Moon, J. W. (2025). Adaptive neural temporal hybridization for missing data imputation in building energy use datasets: An integrated LNN-LSTM weighted model. Journal of Building Engineering, 102, 113774. https://doi.org/10.1016/j.jobe.2025.113774'
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+publishDate: "2025-01-01T00:00:00Z"
 
-date: '2025-07-01T00:00:00Z'
-doi: ''
+abstract: Accurate and complete building energy consumption data is essential for optimizing energy efficiency, forecasting demand, and supporting energy management systems. However, missing data from sensor malfunctions or communication failures can reduce the effectiveness of data-driven decision-making. This study introduces the integrated LNN-LSTM weighted model (ILLWM), a novel imputation approach that combines the adaptability of liquid neural networks (LNN) with the temporal modeling capabilities of long short-term memory (LSTM) models. Imputed values are generated using an RMSE-based weighted approach. ILLWM was tested on real-time energy consumption data from three building types, missing completely at random scenarios with missing rates of 20 %, 30 %, and 40 %. Results showed ILLWM significantly outperformed other imputation methods, including Soft-Impute, KNN, RF, SVM, MLP, Transformer networks, LSTM, and LNN. For commercial buildings with 40 % missing data, ILLWM achieved RMSE reductions of 76.9 % and 89.6 % over LNN and LSTM, respectively. For hospital buildings, improvements included RMSE reductions of 6.12 % over LNN and 31.93 % over LSTM. The ILLWM closely matched actual data, outperforming traditional and machine learning approaches. These results demonstrate the potential of the ILLWM to enhance data reliability, enabling more accurate energy demand forecasting and the development of sustainable energy management strategies in diverse building environments.
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2010-01-01T00:00:00Z'
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: As a cutting-edge, cross-disciplinary research area, we leverage data science and artificial intelligence to create intelligent, predictive, and self-optimizing building and urban systems. Our work involves the application of various machine learning (ML) and deep learning (DL) techniques to address complex challenges across all our research themes. Applications range from forecasting building energy consumption and predicting urban microclimates to the real-time optimization of HVAC operations and occupant-responsive environmental controls. We focus on advancing model interpretability and reliability, ensuring that these data-driven solutions are robust and trustworthy for real-world deployment.
-
-# Summary. An optional shortened abstract.
-summary: Find out More!
-
-tags: []
 
 # Display this page in the Featured widget?
 featured: true
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
