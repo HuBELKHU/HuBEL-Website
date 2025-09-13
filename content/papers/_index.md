@@ -10,7 +10,7 @@ human well-being. We employ a multidisciplinary approach, integrating advanced m
 real-world monitoring, AI and data-driven approaches and human-centric evaluation to create
 energy-efficient, comfortable, and healthy indoor and outdoor environments.
 
-### 1. Indoor Environmental Quality & Occupant-Centric Design
+### 1. Occupant behaviour & Indoor Environmental Quality
 
 <br>
 
@@ -25,7 +25,7 @@ also modeling occupant behavior to bridge the gap between predicted and actual b
 performance. By developing advanced daylighting systems, adaptive comfort models, and
 holistic IEQ assessment frameworks, we aim to create indoor environments.
 
-<img src="preview.png" alt="alt text for your image" width="400"/>
+<img src="1.png" alt="alt text for your image" width="500"/>
 
 
 **Relevant Papers:** 
@@ -65,7 +65,7 @@ work includes the creation of reference energy models for various building typol
 the essential frameworks needed to support evidence-based energy policies, building codes,
 and high-performance design.
 
-<img src="building_energy.png" alt="alt text for your image" width="800"/>
+<img src="2.png" alt="alt text for your image" width="800"/>
 
 **Relevant Papers:** 
 
@@ -127,7 +127,7 @@ PCMs) and the integration of green infrastructure (e.g., green roofs, urban fore
 research connects material science with strategic urban planning to create more resilient and
 sustainable built environments.
 
-<img src="4sustain.png" alt="alt text for your image" width="700"/>
+<img src="4.png" alt="alt text for your image" width="700"/>
 
 **Relevant Papers:** 
 
@@ -160,7 +160,7 @@ time optimization of HVAC operations and occupant-responsive environmental contr
 focus on advancing model interpretability and reliability, ensuring that these data-driven
 solutions are robust and trustworthy for real-world deployment.
 
-<img src="5builtenv.png" alt="alt text for your image" width="700"/>
+<img src="5.png" alt="alt text for your image" width="750"/>
 
 **Relevant Papers:** 
 
