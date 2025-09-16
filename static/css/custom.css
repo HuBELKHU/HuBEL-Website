@@ -1,31 +1,16 @@
-/* Global override for mobile navigation */
+/*
+ * Mobile view adjustment for the site title.
+ * This code reduces the font size of the main title on smaller screens
+ * to prevent it from overlapping with the hamburger menu icon.
+*/
 
-/* This media query targets tablets and phones */
+/* This media query targets screens smaller than 992px (tablets and phones) */
 @media (max-width: 991.98px) {
 
-  /*
-    This rule targets the navigation bar when the menu is collapsed (the default state on mobile).
-    It ensures the links are not displayed inline.
-  */
-  #navbar-main .navbar-nav {
-    display: none !important;
+  /* Target the site title link (the "brand") in the navbar */
+  .navbar-brand {
+    font-size: 0.70rem !important; /* Reduce font size from 1.25rem to 1rem */
+    margin-right: 1rem;        /* Ensure there's a little space next to it */
   }
 
-  /*
-    This rule targets the navigation bar ONLY when the mobile "hamburger"
-    button has been clicked and the menu is expanded.
-  */
-  #navbar-main .navbar-collapse.show .navbar-nav {
-    display: block !important; /* Display the links as a block */
-    text-align: center; /* Center the text for the menu items */
-    width: 100%; /* Ensure it takes the full width */
-  }
-
-  /*
-    This adjusts the main site title ("HuBEL") to prevent it from
-    overlapping with the hamburger menu icon.
-  */
-  #navbar-main .navbar-brand {
-    margin-right: 0 !important;
-  }
 }

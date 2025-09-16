@@ -1,0 +1,16 @@
+/*
+ * Mobile view adjustment for the site title.
+ * This code reduces the font size of the main title on smaller screens
+ * to prevent it from overlapping with the hamburger menu icon.
+*/
+
+/* This media query targets screens smaller than 992px (tablets and phones) */
+@media (max-width: 991.98px) {
+
+  /* Target the site title link (the "brand") in the navbar */
+  .navbar-brand {
+    font-size: 0.75rem !important; /* Reduce font size from 1.25rem to 1rem */
+    margin-right: 3.5rem;        /* Ensure there's a little space next to it */
+  }
+
+}
