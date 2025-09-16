@@ -46,21 +46,19 @@ sections:
 
         Another key research area is the visual perception of occupants and the application of advanced lighting systems. The HuBEL has investigated the visual effects of different spectral power distributions of light sources, the use of lighting systems in practice, and their energy implications through a series of experiments, field measurements, and simulations. Recently, the HuBEL has been testing the subjective responses of people to organic lighting emitting device (OLED) lighting and been developing the lighting strategies to apply OLED in buildings in a carbon efficient way, which can maximise the comfort and well-being of building occupants.
 
-  - block: collection
-    id: publications
+  - block: markdown
     content:
-      title: Recent Publications
+      title: "Recent Publications"
       text: |
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: citation
-      columns: '1'
+        - Adilkhanova, I., Jeong, J. H., Yun, G. Y., Lee, K. S., Kim, H. A., Kim, S. J., & Lee, S. H. (2025). **Development of Reference Energy Models for Office Buildings in Korea**. *Journal of the Korean Institute of Architectural Sustainable Environment and Building Systems, 19(3)*.
+
+        - Bae, K. W., Choi, E. J., Choi, Y. J., Yun, J. Y., Yun, G. Y., Moon, H. J., & Moon, J. W. (2025). **Real-time ventilation control for indoor CO2 management using occupant information**. *Building and Environment, 262*, 113568. <https://doi.org/10.1016/j.buildenv.2025.113568>.
+
+        - Jalbuena, R., Yee, J. J., Yun, G. Y., & Raj, S. (2025). **Addressing landcover bias in spatial downscaling of MODIS land surface temperature using generative adversarial network-based regression model (RGAN)**. *Advances in Space Research, 76(6)*, 3445-3464.
+
+        - Murtaza, S., Raj, S., Yun, G. Y., Park, D. J., Kim, J. H., Park, G., & Moon, J. W. (2025). **Adaptive neural temporal hybridization for missing data imputation in building energy use datasets: An integrated LNN-LSTM weighted model**. *Journal of Building Engineering, 102*, 113774. <https://doi.org/10.1016/j.jobe.2025.113774>.
+
+        - Zo, C. H., Nzarigema, J. D. A., Ngarambe, J., Raj, S., Muhammad, S., Yoo, G., & Yun, G. Y. (2025). **Integrating deep learning into quantile regression models for enhanced building energy benchmarking**. *Journal of Building Engineering, 109*, 113044.
       
   - block: markdown
     content:
