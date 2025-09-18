@@ -52,13 +52,21 @@ sections:
       text: |
         - Adilkhanova, I., Jeong, J. H., Yun, G. Y., Lee, K. S., Kim, H. A., Kim, S. J., & Lee, S. H. (2025). **Development of Reference Energy Models for Office Buildings in Korea**. *Journal of the Korean Institute of Architectural Sustainable Environment and Building Systems, 19(3)*.
 
-        - Bae, K. W., Choi, E. J., Choi, Y. J., Yun, J. Y., Yun, G. Y., Moon, H. J., & Moon, J. W. (2025). **Real-time ventilation control for indoor CO2 management using occupant information**. *Building and Environment, 262*, 113568. <https://doi.org/10.1016/j.buildenv.2025.113568>.
+        - Raj, S., Yerim, L., Yun, G. Y., & Santamouris, M. (2025). Contrasting urban heat disparities across income levels in Seoul and London. Sustainable Cities and Society, 121, 106215.
+
+        - Bae, K. W., Choi, E. J., Choi, Y. J., Yun, J. Y., Yun, G. Y., Moon, H. J., & Moon, J. W. (2025). **Real-time ventilation control for indoor CO2 management using occupant information**. *Building and Environment, 262*, 113568.
+
+        - Adilkhanova, I., Jeong, J. H., & Yun, G. Y. (2025). The role of geographic scale of weather data in urban building energy models. Sustainable Cities and Society, 125, 106339.
+
+        - Ngarambe, J., Raj, S., & Yun, G. Y. (2025). Subsurface urban heat islands: From prevalence and drivers to implications for geothermal energy and a proposed new framework based on machine learning. Sustainable Cities and Society, 106153.
 
         - Jalbuena, R., Yee, J. J., Yun, G. Y., & Raj, S. (2025). **Addressing landcover bias in spatial downscaling of MODIS land surface temperature using generative adversarial network-based regression model (RGAN)**. *Advances in Space Research, 76(6)*, 3445-3464.
 
-        - Murtaza, S., Raj, S., Yun, G. Y., Park, D. J., Kim, J. H., Park, G., & Moon, J. W. (2025). **Adaptive neural temporal hybridization for missing data imputation in building energy use datasets: An integrated LNN-LSTM weighted model**. *Journal of Building Engineering, 102*, 113774. <https://doi.org/10.1016/j.jobe.2025.113774>.
+        - Murtaza, S., Raj, S., Yun, G. Y., Park, D. J., Kim, J. H., Park, G., & Moon, J. W. (2025). **Adaptive neural temporal hybridization for missing data imputation in building energy use datasets: An integrated LNN-LSTM weighted model**. *Journal of Building Engineering, 102*, 113774.
 
         - Zo, C. H., Nzarigema, J. D. A., Ngarambe, J., Raj, S., Muhammad, S., Yoo, G., & Yun, G. Y. (2025). **Integrating deep learning into quantile regression models for enhanced building energy benchmarking**. *Journal of Building Engineering, 109*, 113044.
+
+        - Raj, S., & Yun, G. Y. (2025). Exploring the role of strategic urban planning and greening in decreasing surface urban heat island intensity. Journal of Asian Architecture and Building Engineering, 24(2), 866-879.
       
   - block: markdown
     content:
