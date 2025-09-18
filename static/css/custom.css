@@ -3,14 +3,60 @@
  * This code reduces the font size of the main title on smaller screens
  * to prevent it from overlapping with the hamburger menu icon.
 */
-
-/* This media query targets screens smaller than 992px (tablets and phones) */
 @media (max-width: 991.98px) {
-
-  /* Target the site title link (the "brand") in the navbar */
   .navbar-brand {
-    font-size: 0.70rem !important; /* Reduce font size from 1.25rem to 1rem */
-    margin-right: 1rem;        /* Ensure there's a little space next to it */
+    font-size: 0.75rem !important;
+    margin-right: 3.5rem !important;
+  }
+}
+
+/*
+ ==================================================================
+  PROFESSOR PAGE PROFILE FIX
+ ==================================================================
+*/
+
+/* 
+  1. DESKTOP STYLES (for screens 768px and wider)
+  We apply the side-by-side layout here.
+*/
+@media (min-width: 768px) {
+  /* 
+    This is a very specific selector to override the theme's layout.
+    We are forcing the container to be a flexbox row.
+  */
+  .page-body .article-body .profile-container {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: flex-start !important;
+    gap: 2rem;
   }
 
+  /* Give the text block 2/3 of the space */
+  .page-body .article-body .profile-text {
+    flex: 2;
+    min-width: 0;
+  }
+
+  /* Give the image block 1/3 of the space */
+  .page-body .article-body .profile-image {
+    flex: 1;
+    min-width: 220px;
+  }
+}
+
+/* 
+  2. MOBILE STYLES (for screens smaller than 768px)
+  This stacks the content vertically for mobile.
+*/
+@media (max-width: 767.98px) {
+  .page-body .article-body .profile-container {
+    display: flex;
+    flex-direction: column-reverse; /* This puts the image on top */
+    gap: 2rem;
+  }
+
+  .page-body .article-body .profile-image {
+    text-align: center;
+  }
 }
