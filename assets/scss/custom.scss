@@ -1,16 +1,60 @@
 /*
  * Mobile view adjustment for the site title.
- * This code reduces the font size of the main title on smaller screens
- * to prevent it from overlapping with the hamburger menu icon.
+*/
+@media (max-width: 991.98px) {
+  .navbar-brand {
+    font-size: 0.75rem !important;
+    margin-right: 3.5rem !important;
+  }
+}
+
+/*
+ ==================================================================
+  PROFESSOR PAGE PROFILE FIX
+ ==================================================================
 */
 
-/* This media query targets screens smaller than 992px (tablets and phones) */
-@media (max-width: 991.98px) {
-
-  /* Target the site title link (the "brand") in the navbar */
-  .navbar-brand {
-    font-size: 0.75rem !important; /* Reduce font size from 1.25rem to 1rem */
-    margin-right: 3.5rem;        /* Ensure there's a little space next to it */
+/* 
+  MOBILE STYLES (for screens smaller than 768px)
+  This stacks the content vertically.
+*/
+@media (max-width: 767.98px) {
+  .page-body .profile-container {
+    display: flex;
+    flex-direction: column-reverse; /* Puts the image on top */
+    gap: 2rem;
   }
 
+  .page-body .profile-image {
+    text-align: center;
+  }
+}
+
+/* 
+  DESKTOP STYLES (for screens 768px and wider)
+  This creates the side-by-side layout.
+*/
+@media (min-width: 768px) {
+  /*
+    This is the most important part. We are forcing the container
+    to be a flexbox row and to take up the full width available to it.
+  */
+  .page-body .profile-container {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: flex-start !important;
+    gap: 2rem;
+    width: 100%; /* Force the container to use the full width */
+  }
+
+  /* Give the text block 2/3 of the space */
+  .page-body .profile-text {
+    flex: 2;
+  }
+
+  /* Give the image block 1/3 of the space */
+  .page-body .profile-image {
+    flex: 1;
+    min-width: 220px;
+  }
 }
