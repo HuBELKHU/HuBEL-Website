@@ -15,10 +15,12 @@ banner:
   <div class="profile-text">
     <h2 style="color:#1565c0; font-weight:400; margin-top:0;">PROFILE</h2>
     <p>
-      Geun Young Yun is a building scientist working in the area of the design, operation, and evaluation of sustainable buildings. He is professor at Department of Architectural Engineering of Kyung Hee University, Korea. He obtained his BEng and MEng degrees from Chung Ang University. His MEng work developed a Computational Fluid Dynamics (CFD) program for the evaluation of indoor thermal environment. He then worked as an environmental consultant for sustainable building design in both Korea and UK. His technical skills and insights into “Environmental Design in Architecture” were matured during his MPhil study at the University of Cambridge.
+      Geun Young Yun is a building scientist working in the area of the design, operation, and evaluation of sustainable buildings and neighbourhoods. He is professor of building science at Department of Architectural Engineering of Kyung Hee University (KHU), South Korea. After obtaining BEng and MEng degrees from Chung Ang University, he worked as an environmental consultant for sustainable building design in both South Korea and UK. His PhD work at University of Cambridge is a critical, new component of developing the understanding of the energy and environmental performance of buildings with respect to the role of human agency, obtained from a combined approach to field measurement and statistical simulation.
+
+  He has been leading the Human Behaviour and Energy Laboratory (HuBEL) at Kyung Hee University since 2010. A central aim of HuBEL is contribute to creating sustainable and healthy buildings and neighbourhoods by carrying out innovative research in the area of human behaviour, comfort, artificial intelligence, energy efficiency, energy and environment, urban climate, renewable energy and architectural lighting.
     </p>
     <p>
-      His PhD work at Cambridge University is a critical, new component of developing the understanding of the energy and environmental performance of building with respect to the role of human agency, obtained from a combined approach to field measurement and statistical simulation. He has published a series of academic papers for international referred journals in the field of human comfort, building controls and energy performance with regard to thermal and visual environments in and around buildings.
+      He has been received prominent awards including the KHU presidential award for academic excellence, the achievement award from the Korean Institute of Architectural Sustainable Environment and Building Systems (KIAEBS), and the award of excellence in leadership of 100 leading core technologies for Korea 2025 from the National Academy of Engineering of Korea (NAEK). He serves as a vice-president of KIAEBS, a director for Korean Green Building Council (KGBC) and a chairman of the architectural environment committee in Architectural Institute of Korea (AIK). He has won 45 research grants in the area of environment and energy in the built environment from government research agencies and industries including Samsung electronics and LG chemicals since 2010.
     </p>
   </div>
   <div class="profile-image">
@@ -42,11 +44,12 @@ Environmental Consultant, Hanil MEC, 02/2002 - 05/2004
 </p>
 <h2 style="color:#1565c0; font-weight:400; margin-top:2rem;">ACADEMIC ACTIVITIES</h2>
 <p>
+Associate Editor,<a target="_blank" href="https://www.sciencedirect.com/journal/sustainable-cities-and-society/about/editorial-board">Sustainable Cities and Societies</a><br>
 Section Editor, <a target="_blank" href="https://www.sciencedirect.com/journal/energy-and-buildings/about/editorial-board">Energy and Buildings</a><br>
-Academic Editor, <a target="_blank" href="https://onlinelibrary.wiley.com/page/journal/ina/homepage/editorial-board">Indoor Air</a><br>
 Executive Editor, <a target="_blank" href="https://www.lightingjournal.org/index.php/path">International Journal of Sustainable Lighting</a><br>
 Editor, <a target="_blank" href="https://www.tandfonline.com/toc/oaes20/current">Cogent Environmental Science</a><br>
 Editor, <a target="_blank" href="https://onlinelibrary.wiley.com/page/journal/7074/homepage/editorial-board">Advances in Civil Engineering</a><br>
+Editorial board member, Scientific reports<br>
 Editorial board member, Energies<br>
 Editorial board member, <a target="_blank" href="https://www.mdpi.com/journal/buildings/editors">Buildings</a><br>
 Editorial board member, <a target="_blank" href="https://www.civilejournal.org/index.php/cej/about/editorialTeam">Civil Engineering Journal</a><br>
