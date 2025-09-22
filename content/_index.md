@@ -13,7 +13,7 @@ sections:
       text: |
         <br>
         
-        **HuBEL** has been a center of excellence for cutting edge research, teaching, and practice since its founding in 2010.
+      # **HuBEL** has been a center of excellence for cutting edge research, teaching, and practice since its founding in 2010.
     design:
       columns: '1'
       background:
