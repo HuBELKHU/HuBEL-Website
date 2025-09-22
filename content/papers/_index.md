@@ -10,7 +10,7 @@ human well-being. We employ a multidisciplinary approach, integrating advanced m
 real-world monitoring, AI and data-driven approaches and human-centric evaluation to create
 energy-efficient, comfortable, and healthy indoor and outdoor environments.
 
-### 1. Occupant behaviour & comfort
+### 1. Occupant behaviour & Comfort
 
 <br>
 
