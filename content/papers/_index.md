@@ -10,7 +10,7 @@ human well-being. We employ a multidisciplinary approach, integrating advanced m
 real-world monitoring, AI and data-driven approaches and human-centric evaluation to create
 energy-efficient, comfortable, and healthy indoor and outdoor environments.
 
-### 1. Occupant behaviour & Indoor Environmental Quality
+### 1. Occupant behaviour & comfort
 
 <br>
 
@@ -122,7 +122,7 @@ holistic IEQ assessment frameworks, we aim to create indoor environments.
 
 ---
 
-### 2. Building Energy Performance Analysis & Modeling
+### 2. Building Energy Performance
 
 <br>
 
@@ -179,7 +179,7 @@ and high-performance design.
 
 ---
 
-### 3. Intelligent HVAC Systems & Control
+### 3. Advanced HVAC Systems & Control
 
 <br>
 
@@ -281,7 +281,7 @@ sustainable built environments.
 
 ---
 
-### 5. Data-Driven Intelligence for the Built Environment
+### 5. AI for the Built Environment
 
 <br>
 
