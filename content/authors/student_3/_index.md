@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Dr. Indira Adilkhanova
+title: Dr. Mohammad Ali Koushesh Vatan
 
 # Full Name (for SEO)
-first_name: Indira
-last_name: Adilkhanova
+first_name: Dr. Mohammad Ali
+last_name: Koushesh Vatan
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,23 +21,23 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Urban climate modeling,
-  - Urban building energy modeling, 
-  - Passive design strategies, 
-  - Energy efficient buildings, 
-  - Thermal comfort
+  - Urban Climatology
+  - Remote Sensing
+  - Geospatial Analysis
+  - Building Energy Modeling
+  - Artificial Intelligence and Machine Learning
 
 education:
   courses:
-    - course: PhD in Architectural Engineering
-      institution: Kyung Hee University
-      year: 2020- 2024
-    - course: MSc Civil and Environmental Engineering
-      institution: Nazarbayev University, Astana, Kazakhstan
-      year: 2018 - 2020
-    - course: BEng Civil Engineering
-      institution:  Nazarbayev University, Astana, Kazakhstan
-      year: 2014 - 2018
+    - course: PhD in Geography and Urban Planning
+      institution: University of Tabriz, Tabriz, Iran
+      year: 2019 - 2024
+    - course: MSc in Geography and Urban Planning
+      institution: University of Tabriz, Tabriz, Iran
+      year: 2016 - 2018
+    - course: BSc in Geography and Urban Planning
+      institution:  University of Tabriz, Tabriz, Iran
+      year: 2012 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -49,13 +49,13 @@ social:
   #  link: 'mailto:indira.adilkhan@khu.ac.kr'
   - icon: linkedin
     icon_pack: fab
-    link: https://linkedin.com/in/indira-adilkhanova-245546127
+    link: https://www.linkedin.com/in/mohammad-ali-koushesh-vatan-596891216/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=TwFhX8sAAAAJ&hl=en&oi=ao 
+    link: https://scholar.google.com/citations?user=3ggw47AAAAAJ&hl=en 
   - icon: orcid
     icon_pack: fab
-    link: https://orcid.org/0000-0002-2495-5050
+    link: https://orcid.org/0000-0002-7652-9328
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
