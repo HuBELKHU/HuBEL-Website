@@ -10,7 +10,7 @@ last_name: Koushesh Vatan
 superuser: false
 
 # Role/position
-role: Post-doctoral researcher
+role: Research Professor
 
 # Organizations/Affiliations
 organizations:
